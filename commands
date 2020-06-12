@@ -1,11 +1,11 @@
 Directing Commands in Linux
 
-pwd
-ls
+pwd- present working directory
+ls- list out all the contents
 ls -la
-mkdir
-cd
-touch
-cat
-cp
-mv
+mkdir- create new directory
+cd- change directory
+touch- create file
+cat- view the content in the file
+cp- copy files
+mv- rename file
